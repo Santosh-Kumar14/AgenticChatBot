@@ -9,3 +9,4 @@ arxiv
 wikipedia
 tavily-python
 faiss-cpu
+streamlit
